@@ -1,6 +1,6 @@
 ---
 name: Daniel Depledge, PhD
-image: images/depledge_daniel.png
+image: images/depledge_daniel_fin.png
 role: pi
 aliases:
   - D. P. Depledge
