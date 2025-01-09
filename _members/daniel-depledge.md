@@ -3,9 +3,9 @@ name: Daniel Depledge, PhD
 image: images/depledge_daniel_fin.png
 role: pi
 aliases:
-  - D. P. Depledge
-  - DPD
+  - DP Depledge
 links:
+  email: depledge.daniel@mh-hannover.de
   orcid: 0000-0001-8713-9213
   google-scholar: KC07ZZMAAAAJ
   github: DepledgeLab

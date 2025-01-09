@@ -5,10 +5,10 @@ role: postdoc
 aliases:
   - R Versrtaten
 links:
+  email: verstraten.ruth@mh-hannover.de
   orcid: 0009-0008-6046-6335
   google-scholar: AsH78Y8AAAAJ
-  github: DepledgeLab
-  twitter: ruth-verstraten-2371a026
+  linkedin: ruth-verstraten-2371a026
 
 ---
 
