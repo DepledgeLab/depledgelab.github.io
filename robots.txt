@@ -1,1 +1,1 @@
-Sitemap: https://e-fuhrmann.github.io/testname/sitemap.xml
+Sitemap: https://e-fuhrmann.github.io/sitemap.xml
