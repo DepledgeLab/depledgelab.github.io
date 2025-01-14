@@ -41,7 +41,7 @@ Past members of the Depledge Lab.
 
 {% include list.html data="members" component="portrait" filter="role == 'pi' and group == 'alum'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'alum'" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == 'phd and' group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'alum'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'postgradres' and group == 'alum'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'postgrad' and group == 'alum'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'alum'" style="small" %}
