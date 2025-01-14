@@ -1,6 +1,7 @@
 ---
 name: Niclas Ritter, M.Sc.
 image: images/ritter_niclas_fin.png
+description: Postgraduate Researcher
 role: postgradres
 aliases:
   - N Ritter
