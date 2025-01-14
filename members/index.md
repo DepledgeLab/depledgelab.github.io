@@ -15,11 +15,13 @@ See our lab compact and philosophy [TODO add Link/Site].
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postgradres, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postgrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background_dna.jpg" dark=true %}
 
 Interested in joining the Depledge Lab Team?
 
@@ -40,6 +42,8 @@ Past members of the Depledge Lab.
 {% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postgradres, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postgrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
