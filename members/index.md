@@ -12,14 +12,14 @@ See our lab compact and philosophy [TODO add Link/Site].
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == pi and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == postdoc and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == phd and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == postgradres and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == postgrad and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == undergrad and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == programmer and group != alum" %}
-{% include list.html data="members" component="portrait" filter="role == mascot and group != alum" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgradres' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgrad' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'programmer' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'mascot' and group != 'alum'" %}
 
 {% include section.html background="images/background_dna.jpg" dark=true %}
 
@@ -39,12 +39,12 @@ Interested in joining the Depledge Lab Team?
 
 Past members of the Depledge Lab.
 
-{% include list.html data="members" component="portrait" filter="role == pi and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == postdoc and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == phd and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == postgradres and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == postgrad and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == undergrad and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == programmer and group == alum" style="small" %}
-{% include list.html data="members" component="portrait" filter="role == mascot and group == alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd and' group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgradres' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'postgrad' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'programmer' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'mascot' and group == 'alum'" style="small" %}
 
