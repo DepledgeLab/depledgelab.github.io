@@ -7,71 +7,77 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Find us at [Hannover Medical School](https://www.mhh.de/) (MHH) at the the [Institute of Virology](https://www.mhh.de/virologie).
 
+## How to Contact us
+
+{% capture col1 %}
+#### Lab Space
+[Institute of Virology](https://www.mhh.de/virologie), OE5230
+J6/06/1070
+[Hannover Medical School](https://www.mhh.de/) (MHH)
+Carl-Neuberg-Str. 1
+30625, Hannover
+Germany
+{%
+  include button.html
+  type="address"
+  text="Find J06 on Google Maps"
+  tooltip="Our location on Google Maps for easy navigation"
+  link="https://www.google.de/maps/place/J6/@52.3841769,9.7993088,212m/data=!3m2!1e3!5s0x47b00c82e3cc95b5:0x58b89b8d8aa148bc!4m9!1m2!2m1!1smhh+institut+f%C3%BCr+virologie!3m5!1s0x47b00c82e6900db1:0x9bb409fadabb31ef!8m2!3d52.3841768!4d9.8004354!16s%2Fg%2F11f3908szj?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+#### Daniel Depledge, Ph.D.
+[Institute of Virology](https://www.mhh.de/virologie)
+Associate W2 professor of Systems Virology
+E-Mail: depledge.daniel@mh-hannover.de
+Phone: +49 (0) 511 532 4310
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="depledge.daniel@mh-hannover.de"
+  link="depledge.daniel@mh-hannover.de"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+49 (0) 511 532 4310"
+  link="+49-511-532-4310"
 %}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
+## How to find us
+We are located in Building J06 (aka I06) on the main MHH campus. Once on campus, proceed to Building J06 and take the elevator to the sixth floor.
+
+#### Public Transport
+The MHH is easily reached via the tram (line #4, direction _Roderbruch_) from the city centre (_Kröpcke_) which is a five minute walk from Hannover main station (_Hauptbahnhof_). You can also take the S-Bahn to the station _Bahnhof Karl-Wiechert-Allee_ and switch to the tram #4 from there. Depending on your location you may also take the Bus (#123, #124, #137). Both station _Misburger Straße_ and _Medizinische Hochschule Hannover_ are available station to get off.
+
+#### Bike & Car
+Parking for both car and bike is available thorughout the campus area.
+
+### Campus map
+
+{% include section.html %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{%
+  include figure.html
+  image="images/mhh_campus_map_fin.png"
+  caption="Overview of the MHH campus and location of J06"
+%}
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{%
+  include figure.html
+  image="images/building_j06_fin.png"
+  caption="Building J06"
+%}
 {% endcapture %}
 
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
