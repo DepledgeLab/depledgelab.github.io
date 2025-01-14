@@ -1,10 +1,11 @@
 ---
-name: Carolin Vogt, PhD
+name: Carolin Vogt, Ph.D.
 image: images/vogt_carolin_fin.png
 role: postdoc
 aliases:
-  - C. Vogt
+  - C Vogt
 links:
+  email: vogt.carolin@mh-hannover.de
   orcid: 0009-0004-7005-0086
   google-scholar: wdQVUGsAAAAJ
 

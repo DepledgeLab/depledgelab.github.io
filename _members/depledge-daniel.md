@@ -1,5 +1,5 @@
 ---
-name: Daniel Depledge, PhD
+name: Daniel Depledge, Ph.D.
 image: images/depledge_daniel_fin.png
 role: pi
 aliases:

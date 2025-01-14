@@ -14,9 +14,17 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+postgradres:
+  icon: fa-solid fa-flask-vial
+  decription: Postgraduate Researcher
+
+postgrad:
+  icon: fa-solid fa-book-open
+  description: Master student
+
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Bachelor Student
 
 programmer:
   icon: fa-solid fa-code
@@ -25,6 +33,10 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+alumni:
+  icon: fa-solid fa-feather
+  description: Alumni
 
 # general
 
