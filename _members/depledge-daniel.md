@@ -6,7 +6,7 @@ aliases:
   - DP Depledge
 links:
   email: depledge.daniel@mh-hannover.de
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-4292-0599
   google-scholar: KC07ZZMAAAAJ
   github: DepledgeLab
   twitter: dandepledge
