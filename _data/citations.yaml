@@ -1,247 +1,1003 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41467-020-19787-6
+  title: Direct RNA sequencing reveals m6A modifications on adenovirus RNA are necessary
+    for efficient splicing
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Alexander M. Price
+  - Katharina E. Hayer
+  - Alexa B. R. McIntyre
+  - Nandan S. Gokhale
+  - Jonathan S. Abebe
+  - Ashley N. Della Fera
+  - Christopher E. Mason
+  - Stacy M. Horner
+  - Angus C. Wilson
+  - Daniel P. Depledge
+  - Matthew D. Weitzman
+  publisher: Nature Communications
+  date: '2020-11-26'
+  link: https://doi.org/gskxpw
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1128/mBio.01568-20
+  title: Decoding the Architecture of the Varicella-Zoster Virus Transcriptome
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Shirley E. Braspenning
+  - Tomohiko Sadaoka
+  - Judith Breuer
+  - Georges M. G. M. Verjans
+  - Werner J. D. Ouwendijk
+  - Daniel P. Depledge
+  publisher: mBio
+  date: '2020-10-27'
+  link: https://doi.org/gpwttd
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.11.294280
+  title: Expression of varicella-zoster virus VLT-ORF63 fusion transcript induces
+    broad viral gene expression during reactivation from neuronal latency
+  authors:
+  - Werner J. D. Ouwendijk
+  - Daniel P. Depledge
+  - Labchan Rajbhandari
+  - Tihana Lenac Rovis
+  - Stipan Jonjic
+  - Judith Breuer
+  - Arun Venkatesan
+  - Georges M. G. M. Verjans
+  - Tomohiko Sadaoka
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2020-09-11'
+  link: https://doi.org/g8ztrw
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.virol.2020.03.008
+  title: Analysis of the reiteration regions (R1 to R5) of varicella-zoster virus
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Nancy J. Jensen
+  - Daniel P. Depledge
+  - Terry Fei Fan Ng
+  - Jessica Leung
+  - Mark Quinlivan
+  - Kay W. Radford
+  - Jennifer Folster
+  - Hung-Fu Tseng
+  - Philip LaRussa
+  - Steven J. Jacobsen
+  - Judith Breuer
+  - D. Scott Schmid
+  publisher: Virology
+  date: '2020-07-01'
+  link: https://doi.org/g8ztrx
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: pmid:32255550
+  title: Using Direct RNA Nanopore Sequencing to Deconvolute Viral Transcriptomes.
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Daniel P Depledge
+  - Angus C Wilson
+  publisher: Current protocols in microbiology
+  date: '2020-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32255550
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.25.110965
+  title: Decoding the architecture of the varicella-zoster virus transcriptome
+  authors:
+  - Shirley E. Braspenning
+  - Tomohiko Sadaoka
+  - Judith Breuer
+  - Georges M.G.M Verjans
+  - Werner J.D. Ouwendijk
+  - Daniel P. Depledge
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2020-05-25'
+  link: https://doi.org/g8ztrz
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.jid.2019.08.448
+  title: Kallikrein-Mediated Cytokeratin 10 Degradation Is Required for Varicella
+    Zoster Virus Propagation in Skin
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Cristina Tommasi
+  - Clare Rogerson
+  - Daniel P. Depledge
+  - Meleri Jones
+  - Aishath S. Naeem
+  - Cristina Venturini
+  - Dan Frampton
+  - Helena J. Tutill
+  - Benjamin Way
+  - Judith Breuer
+  - "Ryan F.L. O\u2019Shaughnessy"
+  publisher: Journal of Investigative Dermatology
+  date: '2020-04-01'
+  link: https://doi.org/g8ztr2
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1093/ve/veaa012
+  title: Whole genome sequencing of Herpes Simplex Virus 1 directly from human cerebrospinal
+    fluid reveals selective constraints in neurotropic viruses
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Florent Lassalle
+  - Mathew A Beale
+  - Tehmina Bharucha
+  - Charlotte A Williams
+  - Rachel J Williams
+  - Juliana Cudini
+  - Richard Goldstein
+  - Tanzina Haque
+  - Daniel P Depledge
+  - Judith Breuer
+  publisher: Virus Evolution
+  date: '2020-01-01'
+  link: https://doi.org/ggnnt8
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31941787
+  title: Evasion of a Human Cytomegalovirus Entry Inhibitor with Potent Cysteine Reactivity
+    Is Concomitant with the Utilization of a Heparan Sulfate Proteoglycan-Independent
+    Route of Entry.
+  authors:
+  - M J Murray
+  - N I Bonilla-Medrano
+  - Q L Lee
+  - S J Oxenford
+  - R Angell
+  - D P Depledge
+  - M B Reeves
+  publisher: Journal of virology
+  date: '2020-03-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31941787
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2019.12.13.876037
+  title: Novel splicing and open reading frames revealed by long-read direct RNA sequencing
+    of adenovirus transcripts
+  authors:
+  - Alexander M. Price
+  - Katharina E. Hayer
+  - Daniel P. Depledge
+  - Angus C. Wilson
+  - Matthew D. Weitzman
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2019-12-13'
+  link: https://doi.org/gkvkjx
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/866350
+  title: Whole genome sequencing of Herpes Simplex Virus 1 directly from human cerebrospinal
+    fluid reveals selective constraints in neurotropic viruses
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Florent Lassalle
+  - Mathew A Beale
+  - Tehmina Bharucha
+  - Charlotte A Williams
+  - Rachel J Williams
+  - Juliana Cudini
+  - Richard Goldstein
+  - Tanzina Haque
+  - Daniel P Depledge
+  - Judith Breuer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-06'
+  link: https://doi.org/gk3cvg
+  orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/865485
+  title: Direct RNA sequencing reveals m<sup>6</sup>A modifications on adenovirus
+    RNA are necessary for efficient splicing
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
+  - Alexander M. Price
+  - Katharina E. Hayer
+  - Alexa B.R. McIntyre
+  - Nandan S. Gokhale
+  - Jonathan S. Abebe
+  - Ashley N. Della Fera
+  - Christopher E. Mason
+  - Stacy M. Horner
+  - Angus C. Wilson
+  - Daniel P. Depledge
+  - Matthew D. Weitzman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-05'
+  link: https://doi.org/gktpkw
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001343
+  title: Genetic and phenotypic intrastrain variation in herpes simplex virus type
+    1 Glasgow strain 17 syn+-derived viruses
+  authors:
+  - Juliet Jones
+  - Daniel Pearce Depledge
+  - Judith Breuer
+  - Katja Ebert-Keel
+  - Gillian Elliott
+  publisher: Journal of General Virology
+  date: '2019-12-01'
+  link: https://doi.org/g8ztr3
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1008076
+  title: Chromatin dynamics and the transcriptional competence of HSV-1 genomes during
+    lytic infections
+  authors:
+  - MiYao Hu
+  - Daniel P. Depledge
+  - Esteban Flores Cortes
+  - Judith Breuer
+  - Luis M. Schang
+  publisher: PLOS Pathogens
+  date: '2019-11-14'
+  link: https://doi.org/g8ztr4
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31679866
+  title: 'Recurrent herpes zoster in the Shingles Prevention Study: Are second episodes
+    caused by the same varicella-zoster virus strain?'
+  authors:
+  - Ruth Harbecke
+  - Nancy J Jensen
+  - Daniel P Depledge
+  - Gary R Johnson
+  - Mark E Ashbaugh
+  - D Scott Schmid
+  - Judith Breuer
+  - Myron J Levin
+  - Michael N Oxman
+  publisher: Vaccine
+  date: '2019-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31679866
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30819890
+  title: Human cytomegalovirus haplotype reconstruction reveals high diversity due
+    to superinfection and evidence of within-host recombination.
+  authors:
+  - Juliana Cudini
+  - Sunando Roy
+  - Charlotte J Houldcroft
+  - Josephine M Bryant
+  - Daniel P Depledge
+  - Helena Tutill
+  - Paul Veys
+  - Rachel Williams
+  - Austen J J Worth
+  - Asif U Tamuri
+  - Richard A Goldstein
+  - Judith Breuer
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2019-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30819890
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-019-08734-9
+  title: Direct RNA sequencing on nanopore arrays redefines the transcriptional complexity
+    of a viral pathogen
+  authors:
+  - Daniel P. Depledge
+  - Kalanghad Puthankalam Srinivas
+  - Tomohiko Sadaoka
+  - Devin Bready
+  - Yasuko Mori
+  - Dimitris G. Placantonakis
+  - Ian Mohr
+  - Angus C. Wilson
+  publisher: Nature Communications
+  date: '2019-02-14'
+  link: https://doi.org/gfvm44
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.01342-18
+  title: 'Going the Distance: Optimizing RNA-Seq Strategies for Transcriptomic Analysis
+    of Complex Viral Genomes'
+  authors:
+  - Daniel P. Depledge
+  - Ian Mohr
+  - Angus C. Wilson
+  publisher: Journal of Virology
+  date: '2019-01-01'
+  link: https://doi.org/gj24bs
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30414047
+  title: 2018 Colorado Alphaherpesvirus Latency Society Symposium.
+  authors:
+  - Nicholas L Baird
+  - Daniel P Depledge
+  - Randall J Cohrs
+  publisher: Journal of neurovirology
+  date: '2018-11-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30414047
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29554870
+  title: Comparative genomic, transcriptomic, and proteomic reannotation of human
+    herpesvirus 6.
+  authors:
+  - Alexander L Greninger
+  - Giselle M Knudsen
+  - Pavitra Roychoudhury
+  - Derek J Hanson
+  - Ruth Hall Sedlak
+  - Hong Xie
+  - Jon Guan
+  - Thuy Nguyen
+  - Vikas Peddu
+  - Michael Boeckh
+  - Meei-Li Huang
+  - Linda Cook
+  - Daniel P Depledge
+  - Danielle M Zerr
+  - David M Koelle
+  - Soren Gantt
+  - Tetsushi Yoshikawa
+  - Mary Caserta
+  - Joshua A Hill
+  - Keith R Jerome
+  publisher: BMC genomics
+  date: '2018-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29554870
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29958408
+  title: Molecular Aspects of Varicella-Zoster Virus Latency.
+  authors:
+  - Daniel P Depledge
+  - Tomohiko Sadaoka
+  - Werner J D Ouwendijk
+  publisher: Viruses
+  date: '2018-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29958408
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30463905
+  title: RNA m
+  authors:
+  - Rosa M Rubio
+  - Daniel P Depledge
+  - Christopher Bianco
+  - Letitia Thompson
+  - Ian Mohr
+  publisher: Genes & development
+  date: '2018-11-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30463905
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1007331
+  title: Nuclear-cytoplasmic compartmentalization of the herpes simplex virus 1 infected
+    cell transcriptome is co-ordinated by the viral endoribonuclease vhs and cofactors
+    to facilitate the translation of late proteins
+  authors:
+  - Kathleen Pheasant
+  - "Carla Sofia M\xF6ller-Levet"
+  - Juliet Jones
+  - Daniel Depledge
+  - Judith Breuer
+  - Gillian Elliott
+  publisher: PLOS Pathogens
+  date: '2018-11-26'
+  link: https://doi.org/gfp4j6
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29986093
+  title: High Viral Diversity and Mixed Infections in Cerebral Spinal Fluid From Cases
+    of Varicella Zoster Virus Encephalitis.
+  authors:
+  - Daniel P Depledge
+  - Juliana Cudini
+  - Samit Kundu
+  - Claire Atkinson
+  - Julianne R Brown
+  - Tanzina Haque
+  - Charlotte J Houldcroft
+  - Evelyn S Koay
+  - Fiona McGill
+  - Richard Milne
+  - Tom Whitfield
+  - Julian W Tang
+  - Gillian Underhill
+  - Tomas Bergstrom
+  - Peter Norberg
+  - Richard Goldstein
+  - Tom Solomon
+  - Judith Breuer
+  publisher: The Journal of infectious diseases
+  date: '2018-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29986093
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/415497
+  title: Nuclear-cytoplasmic compartmentalization of the herpes simplex virus 1 infected
+    cell transcriptome is co-ordinated by the viral endoribonuclease vhs and cofactors
+    to facilitate the translation of late proteins
+  authors:
+  - Kathleen Pheasant
+  - Carla Moller-Levet
+  - Juliet Jones
+  - Daniel Depledge
+  - Judith Breuer
+  - Gillian Elliott
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-09-12'
+  link: https://doi.org/gk2smj
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29917114
+  title: Use of Whole-Genome Sequencing of Adenovirus in Immunocompromised Pediatric
+    Patients to Identify Nosocomial Transmission and Mixed-Genotype Infection.
+  authors:
+  - Charlotte J Houldcroft
+  - Sunando Roy
+  - Sofia Morfopoulou
+  - Ben K Margetts
+  - Daniel P Depledge
+  - Juliana Cudini
+  - Divya Shah
+  - Julianne R Brown
+  - Erika Yara Romero
+  - Rachel Williams
+  - Elaine Cloutman-Green
+  - Kanchan Rao
+  - Joseph F Standing
+  - John C Hartley
+  - Judith Breuer
+  publisher: The Journal of infectious diseases
+  date: '2018-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29917114
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/373522
+  title: Native RNA sequencing on nanopore arrays redefines the transcriptional complexity
+    of a viral pathogen
+  authors:
+  - Daniel P. Depledge
+  - Kalanghad Puthankalam Srinivas
+  - Tomohiko Sadaoka
+  - Devin Bready
+  - Yasuko Mori
+  - Dimitris G. Placantonakis
+  - Ian Mohr
+  - Angus C Wilson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-07-20'
+  link: https://doi.org/gkt35n
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-018-03569-2
+  title: A spliced latency-associated VZV transcript maps antisense to the viral transactivator
+    gene 61
+  authors:
+  - Daniel P. Depledge
+  - Werner J. D. Ouwendijk
+  - Tomohiko Sadaoka
+  - Shirley E. Braspenning
+  - Yasuko Mori
+  - Randall J. Cohrs
+  - Georges M. G. M. Verjans
+  - Judith Breuer
+  publisher: Nature Communications
+  date: '2018-03-21'
+  link: https://doi.org/gc76qp
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29020238
+  title: Acute Retinal Necrosis Caused by the Zoster Vaccine Virus.
+  authors:
+  - Gregory Heath
+  - Daniel P Depledge
+  - Julianne R Brown
+  - Anthony D Hale
+  - Helena Tutil
+  - Rachel Williams
+  - Judith Breuer
+  publisher: 'Clinical infectious diseases : an official publication of the Infectious
+    Diseases Society of America'
+  date: '2017-11-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29020238
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/174797
+  title: A unique spliced varicella-zoster virus latency transcript represses expression
+    of the viral transactivator gene 61
+  authors:
+  - Daniel P. Depledge
+  - Werner J. D. Ouwendijk
+  - Tomohiko Sadaoka
+  - Shirley E. Braspenning
+  - Yasuko Mori
+  - Randall J. Cohrs
+  - Georges M. G. M. Verjans
+  - Judith Breuer
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-08-10'
+  link: https://doi.org/gkvqgg
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27571904
+  title: Viral Genome Sequencing Proves Nosocomial Transmission of Fatal Varicella.
+  authors:
+  - Daniel P Depledge
+  - Julianne Brown
+  - Jasna Macanovic
+  - Gill Underhill
+  - Judith Breuer
+  publisher: The Journal of infectious diseases
+  date: '2016-08-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27571904
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27440875
+  title: Deep Sequencing of Distinct Preparations of the Live Attenuated Varicella-Zoster
+    Virus Vaccine Reveals a Conserved Core of Attenuating Single-Nucleotide Polymorphisms.
+  authors:
+  - Daniel P Depledge
+  - Koichi Yamanishi
+  - Yasuyuki Gomi
+  - Anne A Gershon
+  - Judith Breuer
+  publisher: Journal of virology
+  date: '2016-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27440875
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27078099
+  title: In vitro system using human neurons demonstrates that varicella-zoster vaccine
+    virus is impaired for reactivation, but not latency.
+  authors:
+  - Tomohiko Sadaoka
+  - Daniel P Depledge
+  - Labchan Rajbhandari
+  - Arun Venkatesan
+  - Judith Breuer
+  - Jeffrey I Cohen
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27078099
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30288299
+  title: Islands of linkage in an ocean of pervasive recombination reveals two-speed
+    evolution of human cytomegalovirus genomes.
+  authors:
+  - Florent Lassalle
+  - Daniel P Depledge
+  - Matthew B Reeves
+  - Amanda C Brown
+  - Mette T Christiansen
+  - Helena J Tutill
+  - Rachel J Williams
+  - Katja Einer-Jensen
+  - Jolyon Holdstock
+  - Claire Atkinson
+  - Julianne R Brown
+  - Freek B van Loenen
+  - Duncan A Clark
+  - Paul D Griffiths
+  - Georges M G M Verjans
+  - Martin Schutten
+  - Richard S B Milne
+  - Francois Balloux
+  - Judith Breuer
+  publisher: Virus evolution
+  date: '2016-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30288299
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27667983
+  title: Detection of Low Frequency Multi-Drug Resistance and Novel Putative Maribavir
+    Resistance in Immunocompromised Pediatric Patients with Cytomegalovirus.
+  authors:
+  - Charlotte J Houldcroft
+  - Josephine M Bryant
+  - Daniel P Depledge
+  - Ben K Margetts
+  - Jacob Simmonds
+  - Stephanos Nicolaou
+  - Helena J Tutill
+  - Rachel Williams
+  - Austen J J Worth
+  - Stephen D Marks
+  - Paul Veys
+  - Elizabeth Whittaker
+  - Judith Breuer
+  publisher: Frontiers in microbiology
+  date: '2016-09-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27667983
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25972414
+  title: Rapid Whole-Genome Sequencing of Mycobacterium tuberculosis Isolates Directly
+    from Clinical Samples.
+  authors:
+  - Amanda C Brown
+  - Josephine M Bryant
+  - Katja Einer-Jensen
+  - Jolyon Holdstock
+  - Darren T Houniet
+  - Jacqueline Z M Chan
+  - Daniel P Depledge
+  - Vladyslav Nikolayevskyy
+  - Agnieszka Broda
+  - Madeline J Stone
+  - Mette T Christiansen
+  - Rachel Williams
+  - Michael B McAndrew
+  - Helena Tutill
+  - Julianne Brown
+  - Mark Melzer
+  - Caryn Rosmarin
+  - Timothy D McHugh
+  - Robert J Shorten
+  - Francis Drobniewski
+  - Graham Speight
+  - Judith Breuer
+  publisher: Journal of clinical microbiology
+  date: '2015-05-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25972414
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25926648
+  title: Recombination of Globally Circulating Varicella-Zoster Virus.
+  authors:
+  - Peter Norberg
+  - Daniel P Depledge
+  - Samit Kundu
+  - Claire Atkinson
+  - Julianne Brown
+  - Tanzina Haque
+  - Yusuf Hussaini
+  - Eithne MacMahon
+  - Pamela Molyneaux
+  - Vassiliki Papaevangelou
+  - Nitu Sengupta
+  - Evelyn S C Koay
+  - Julian W Tang
+  - Gillian S Underhill
+  - Anna Grahn
+  - Marie Studahl
+  - Judith Breuer
+  - "Tomas Bergstr\xF6m"
+  publisher: Journal of virology
+  date: '2015-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25926648
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25568346
+  title: 'Rates of vaccine evolution show strong effects of latency: implications
+    for varicella zoster virus epidemiology.'
+  authors:
+  - Lucy A Weinert
+  - Daniel P Depledge
+  - Samit Kundu
+  - Anne A Gershon
+  - Richard A Nichols
+  - Francois Balloux
+  - John J Welch
+  - Judith Breuer
+  publisher: Molecular biology and evolution
+  date: '2015-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25568346
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25676750
+  title: Complete Genome Sequence of the Human Herpesvirus 6A Strain AJ from Africa
+    Resembles Strain GS from North America.
+  authors:
+  - J Tweedy
+  - M A Spyrou
+  - C D Donaldson
+  - D Depledge
+  - J Breuer
+  - U A Gompels
+  publisher: Genome announcements
+  date: '2015-02-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25676750
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25275123
+  title: Evolution of cocirculating varicella-zoster virus genotypes during a chickenpox
+    outbreak in Guinea-Bissau.
+  authors:
+  - Daniel P Depledge
+  - Eleanor R Gray
+  - Samit Kundu
+  - Samantha Cooray
+  - Anja Poulsen
+  - Peter Aaby
+  - Judith Breuer
+  publisher: Journal of virology
+  date: '2014-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25275123
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24162921
+  title: Deep sequencing of viral genomes provides insight into the evolution and
+    pathogenesis of varicella zoster virus and its vaccine in humans.
+  authors:
+  - Daniel P Depledge
+  - Samit Kundu
+  - Nancy J Jensen
+  - Eleanor R Gray
+  - Meleri Jones
+  - Sharon Steinberg
+  - Anne Gershon
+  - Paul R Kinchington
+  - D Scott Schmid
+  - Francois Balloux
+  - Richard A Nichols
+  - Judith Breuer
+  publisher: Molecular biology and evolution
+  date: '2013-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24162921
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25388670
+  title: Whole-genome enrichment and sequencing of Chlamydia trachomatis directly
+    from clinical samples.
+  authors:
+  - Mette T Christiansen
+  - Amanda C Brown
+  - Samit Kundu
+  - Helena J Tutill
+  - Rachel Williams
+  - Julianne R Brown
+  - Jolyon Holdstock
+  - Martin J Holland
+  - Simon Stevenson
+  - Jayshree Dave
+  - C Y William Tong
+  - Katja Einer-Jensen
+  - Daniel P Depledge
+  - Judith Breuer
+  publisher: BMC infectious diseases
+  date: '2014-11-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25388670
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24115547
+  title: Genome Sequence of Human Herpesvirus 7 Strain UCL-1.
+  authors:
+  - Callum D Donaldson
+  - Duncan A Clark
+  - I Michael Kidd
+  - Judith Breuer
+  - Daniel D Depledge
+  publisher: Genome announcements
+  date: '2013-10-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24115547
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23864617
+  title: Mode of virus rescue determines the acquisition of VHS mutations in VP22-negative
+    herpes simplex virus 1.
+  authors:
+  - Katja Ebert
+  - Daniel P Depledge
+  - Judith Breuer
+  - Laura Harman
+  - Gillian Elliott
+  publisher: Journal of virology
+  date: '2013-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23864617
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23645848
+  title: Next-generation whole genome sequencing identifies the direction of norovirus
+    transmission in linked patients.
+  authors:
+  - Samit Kundu
+  - Julianne Lockwood
+  - Daniel P Depledge
+  - Yasmin Chaudhry
+  - Antony Aston
+  - Kanchan Rao
+  - John C Hartley
+  - Ian Goodfellow
+  - Judith Breuer
+  publisher: 'Clinical infectious diseases : an official publication of the Infectious
+    Diseases Society of America'
+  date: '2013-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23645848
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23382427
+  title: Viral population analysis and minority-variant detection using short read
+    next-generation sequencing.
+  authors:
+  - Simon J Watson
+  - Matthijs R A Welkers
+  - Daniel P Depledge
+  - Eve Coulter
+  - Judith M Breuer
+  - Menno D de Jong
+  - Paul Kellam
+  publisher: Philosophical transactions of the Royal Society of London. Series B,
+    Biological sciences
+  date: '2013-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23382427
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC3267775
+  title: 'Correction: Specific Capture and Whole-Genome Sequencing of Viruses from
+    Clinical Samples'
+  authors:
+  - Daniel P. Depledge
+  - Anne L. Palser
+  - Simon J. Watson
+  - Imogen Yi-Chun Lai
+  - Eleanor R. Gray
+  - Paul Grant
+  - Ravinder K. Kanda
+  - Emily Leproust
+  - Paul Kellam
+  - Judith Breuer
+  publisher: PLoS ONE
+  date: '2012-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267775/
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22038252
+  title: Chromosome and gene copy number variation allow major structural change between
+    species and strains of Leishmania.
+  authors:
+  - Matthew B Rogers
+  - James D Hilley
+  - Nicholas J Dickens
+  - Jon Wilkes
+  - Paul A Bates
+  - Daniel P Depledge
+  - David Harris
+  - Yerim Her
+  - Pawel Herzyk
+  - Hideo Imamura
+  - Thomas D Otto
+  - Mandy Sanders
+  - Kathy Seeger
+  - Jean-Claude Dujardin
+  - Matthew Berriman
+  - Deborah F Smith
+  - Christiane Hertz-Fowler
+  - Jeremy C Mottram
+  publisher: Genome research
+  date: '2011-10-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22038252
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22125625
+  title: Specific capture and whole-genome sequencing of viruses from clinical samples.
+  authors:
+  - Daniel P Depledge
+  - Anne L Palser
+  - Simon J Watson
+  - Imogen Yi-Chun Lai
+  - Eleanor R Gray
+  - Paul Grant
+  - Ravinder K Kanda
+  - Emily Leproust
+  - Paul Kellam
+  - Judith Breuer
+  publisher: PloS one
+  date: '2011-11-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22125625
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/msystems.00505-24
+  title: Nanopore guided annotation of transcriptome architectures
+  authors:
+  - Jonathan S. Abebe
+  - Yasmine Alwie
+  - Erik Fuhrmann
+  - Jonas Leins
+  - Julia Mai
+  - Ruth Verstraten
+  - Sabrina Schreiner
+  - Angus C. Wilson
+  - Daniel P. Depledge
+  publisher: mSystems
+  date: '2024-07-02'
+  link: https://doi.org/g8ztzm
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: \**NAGATA** uses _Nanopore_ direct RNA sequencing reads aligned to
+    a genome to produce a transcriptome annotation. **NAGATA** functions by parsing
+    read alignments (sorted BAM files) to identify Transcription Units (TUs) by internally
+    converting BAM file into BED12 followed by numerically sorting "start" and "end"
+    positions and then grouping alignments with similar "start" and "end" co-ordinates.
+    This is performed on a row-by-row basis with a new TU defined only if the alignment
+    co-ordinates of a given row differ from the previous row by greater than user-defined
+    threshold (20 nt for transcription start sites (TSS), 50 nt for cleavage and polyadenylation
+    sites (CPAS)).
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11265410_msystems.00505-24.f003.jpg
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+    text: Software Repository
+    link: https://github.com/DepledgeLab/NAGATA
   tags:
+  - software
   - open science
   - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  repo: DepledgeLab/NAGATA
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1093/bioinformatics/btac274
+  title: "DRUMMER\u2014rapid detection of RNA modifications through comparative nanopore\
+    \ sequencing"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Jonathan S Abebe
+  - Alexander M Price
+  - Katharina E Hayer
+  - Ian Mohr
+  - Matthew D Weitzman
+  - Angus C Wilson
+  - Daniel P Depledge
+  publisher: Bioinformatics
+  date: '2022-04-15'
+  link: https://doi.org/gsfrdf
+  type: paper
+  description: \**DRUMMER** is designed to identify RNA modifications at nucleotide-level
+    resolution on distinct transcript isoforms through the comparative analysis of
+    basecall errors in _Nanopore_ direct RNA sequencing (DRS) datasets.
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/11/10.1093_bioinformatics_btac274/2/m_btac274f1.jpeg?Expires=1739950633&Signature=bU1ER8tpVEyIXI~5CXkkt-WdnEMQnjAir7PZh8OJT8Nhup7sJ-d7mvVAs8mQa7rrYd4UlhxcA4LK00rKOeLCLuWmOIViYk4imwQ559WM3Wbjk3vutKBmpLp3athiUcP0mUTEwDnakUmgiEtssg8Bil3D98MbRIlJZfUGMeAQJZJSXssD9XL3VsNOsbBc3xifKhh2XK9r-VkPxIfgFYitZoHbfYbamkgT9EhnYihPKrhgXde~f0ZZTB2B~rvwKu5JHwiD2vLMU0NRbs2mHkuVZ-Y6e3Yb2sjAHnpaAEB6SOhiKrRMphl-Vi~-fN1c-hny55cGEschJXa-NVVIhnbbQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  buttons:
+  - type: source
+    text: Software Repository
+    link: https://github.com/DepledgeLab/DRUMMER
+  tags:
+  - software
+  - open science
+  - collaboration
+  repo: DepledgeLab/DRUMMER
   plugin: sources.py
   file: sources.yaml
