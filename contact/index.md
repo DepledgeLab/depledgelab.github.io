@@ -9,6 +9,7 @@ nav:
 
 Find us at [Hannover Medical School](https://www.mhh.de/) (MHH) at the the [Institute of Virology](https://www.mhh.de/virologie), [AG Depledge](https://www.mhh.de/virologie/forschung/depledge-lab).
 
+
 ## How to Contact us
 
 {% capture col1 %}
@@ -30,7 +31,7 @@ Germany
 
 {% capture col2 %}
 #### Daniel Depledge, Ph.D.
-[Institute of Virology](https://www.mhh.de/virologie)<br>
+[Institute of Virology](https://www.mhh.de/virologie), OE5230<br>
 Associate W2 professor of Systems Virology<br>
 E-Mail: depledge.daniel@mh-hannover.de<br>
 Phone: +49 (0) 511 532 4310
@@ -50,6 +51,14 @@ Phone: +49 (0) 511 532 4310
 
 {% include cols.html col1=col1 col2=col2 %}
 
+{%
+  include figure.html
+  image="images/building_j06_fin.png"
+  caption="Building J06"
+%}
+
+{% include section.html %}
+
 ## How to find us
 We are located in Building J06 (aka I06) on the main MHH campus. Once on campus, proceed to Building J06 and take the elevator to the sixth floor.
 
@@ -60,25 +69,18 @@ The MHH is easily reached via the tram (line #4, direction _Roderbruch_) from th
 Parking for both car and bike is available throughout the campus area.
 
 
-{% include section.html %}
 
 ### Campus map
 
-{% capture col1 %}
 {%
   include figure.html
   image="images/mhh_campus_map_fin.png"
   caption="Overview of the MHH campus and location of J06"
 %}
-{% endcapture %}
 
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/building_j06_fin.png"
-  caption="Building J06"
-%}
-{% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+
+
+
+
 
