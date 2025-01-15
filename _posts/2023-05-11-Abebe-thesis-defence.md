@@ -1,6 +1,6 @@
 ---
 title: An auspicious day - Jonathan Abebe thesis defence!
-author: Dan Depledge
+author: depledge-daniel
 tags: lab life, team
 ---
 

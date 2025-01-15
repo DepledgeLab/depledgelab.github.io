@@ -1,6 +1,6 @@
 ---
 title: And so it begins!
-author: Dan Depledge
+author: depledge-daniel
 tags: lab life
 ---
 
