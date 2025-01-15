@@ -1,14 +1,14 @@
 ---
 title: Members
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Depledge Lab Members
 
 The Depledge lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.
-See our lab compact and philosophy [TODO add Link/Site].
+See our lab [compact and philosophy](philosophy).
 
 {% include section.html %}
 

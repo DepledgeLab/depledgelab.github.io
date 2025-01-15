@@ -5,6 +5,13 @@
 
 DepledgeLab focuses on understanding how human herpesviruses persist following infection and how this is influenced by different aspects of RNA biology. Here, exciting web-lab, high performance computing bioinformatics and supportive colleagues meet to create new research. Have a look around this website to find out more!
 
+{% capture content %}
+**Warning**<br>
+This site is currently under construction.
+{% endcapture %}
+{% include alert.html type="warning" content=content %}
+
+
 {% include section.html %}
 
 ## Highlights

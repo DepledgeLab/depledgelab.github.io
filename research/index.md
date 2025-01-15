@@ -1,26 +1,32 @@
 ---
-title: Publications
+title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Projects, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-{% include section.html %}
+{% capture content %}
+**Warning**<br>
+This site is currently under construction.
+{% endcapture %}
+{% include alert.html type="warning" content=content %}
 
-## Highlighted
 
-{% include citation.html lookup="Nanopore guided annotation of transcriptome architectures" style="rich" %}
 
-{% include citation.html lookup="DRUMMER—rapid detection of RNA modifications through comparative nanopore sequencing" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
