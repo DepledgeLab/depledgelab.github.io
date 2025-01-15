@@ -7,17 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Find us at [Hannover Medical School](https://www.mhh.de/) (MHH) at the the [Institute of Virology](https://www.mhh.de/virologie).
+Find us at [Hannover Medical School](https://www.mhh.de/) (MHH) at the the [Institute of Virology](https://www.mhh.de/virologie), [AG Depledge](https://www.mhh.de/virologie/forschung/depledge-lab).
 
 ## How to Contact us
 
 {% capture col1 %}
 #### Lab Space
-[Institute of Virology](https://www.mhh.de/virologie), OE5230
-J6/06/1070
-[Hannover Medical School](https://www.mhh.de/) (MHH)
-Carl-Neuberg-Str. 1
-30625, Hannover
+[Institute of Virology](https://www.mhh.de/virologie), OE5230<br>
+J6/06/1070<br>
+[Hannover Medical School](https://www.mhh.de/) (MHH)<br>
+Carl-Neuberg-Str. 1<br>
+30625, Hannover<br>
 Germany
 {%
   include button.html
@@ -30,9 +30,9 @@ Germany
 
 {% capture col2 %}
 #### Daniel Depledge, Ph.D.
-[Institute of Virology](https://www.mhh.de/virologie)
-Associate W2 professor of Systems Virology
-E-Mail: depledge.daniel@mh-hannover.de
+[Institute of Virology](https://www.mhh.de/virologie)<br>
+Associate W2 professor of Systems Virology<br>
+E-Mail: depledge.daniel@mh-hannover.de<br>
 Phone: +49 (0) 511 532 4310
 {%
   include button.html
@@ -57,11 +57,12 @@ We are located in Building J06 (aka I06) on the main MHH campus. Once on campus,
 The MHH is easily reached via the tram (line #4, direction _Roderbruch_) from the city centre (_Kröpcke_) which is a five minute walk from Hannover main station (_Hauptbahnhof_). You can also take the S-Bahn to the station _Bahnhof Karl-Wiechert-Allee_ and switch to the tram #4 from there. Depending on your location you may also take the Bus (#123, #124, #137). Both station _Misburger Straße_ and _Medizinische Hochschule Hannover_ are available station to get off.
 
 #### Bike & Car
-Parking for both car and bike is available thorughout the campus area.
+Parking for both car and bike is available throughout the campus area.
 
-### Campus map
 
 {% include section.html %}
+
+### Campus map
 
 {% capture col1 %}
 {%
