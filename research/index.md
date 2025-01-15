@@ -2,15 +2,16 @@
 title: Research
 nav:
   order: 1
-  tooltip: Software, datasets, and more
+  tooltip: Projects, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-{% capture lorem %}
+{% capture content %}
+**Warning**<br>
 This site is currently under construction.
 {% endcapture %}
-{% capture content %}**Warning** {{ lorem }}{% endcapture %}
+{% include alert.html type="warning" content=content %}
 
 
 
