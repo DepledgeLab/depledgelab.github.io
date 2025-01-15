@@ -1,6 +1,6 @@
 - id: doi:10.1128/msystems.00505-24
   type: paper
-  description: **NAGATA** uses _Nanopore_ direct RNA sequencing reads aligned to a genome to produce a transcriptome annotation. **NAGATA** functions by parsing read alignments (sorted BAM files) to identify Transcription Units (TUs) by internally converting BAM file into BED12 followed by numerically sorting "start" and "end" positions and then grouping alignments with similar "start" and "end" co-ordinates. This is performed on a row-by-row basis with a new TU defined only if the alignment co-ordinates of a given row differ from the previous row by greater than user-defined threshold (20 nt for transcription start sites (TSS), 50 nt for cleavage and polyadenylation sites (CPAS)).
+  description: \**NAGATA** uses _Nanopore_ direct RNA sequencing reads aligned to a genome to produce a transcriptome annotation. **NAGATA** functions by parsing read alignments (sorted BAM files) to identify Transcription Units (TUs) by internally converting BAM file into BED12 followed by numerically sorting "start" and "end" positions and then grouping alignments with similar "start" and "end" co-ordinates. This is performed on a row-by-row basis with a new TU defined only if the alignment co-ordinates of a given row differ from the previous row by greater than user-defined threshold (20 nt for transcription start sites (TSS), 50 nt for cleavage and polyadenylation sites (CPAS)).
   date: 2024-07-2
   image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11265410_msystems.00505-24.f003.jpg
   buttons:
@@ -15,7 +15,7 @@
 
 - id: doi:10.1093/bioinformatics/btac274
   type: paper
-  description: **DRUMMER** is designed to identify RNA modifications at nucleotide-level resolution on distinct transcript isoforms through the comparative analysis of basecall errors in _Nanopore_ direct RNA sequencing (DRS) datasets.
+  description: \**DRUMMER** is designed to identify RNA modifications at nucleotide-level resolution on distinct transcript isoforms through the comparative analysis of basecall errors in _Nanopore_ direct RNA sequencing (DRS) datasets.
   date: 2022-04-15
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/11/10.1093_bioinformatics_btac274/2/m_btac274f1.jpeg?Expires=1739950633&Signature=bU1ER8tpVEyIXI~5CXkkt-WdnEMQnjAir7PZh8OJT8Nhup7sJ-d7mvVAs8mQa7rrYd4UlhxcA4LK00rKOeLCLuWmOIViYk4imwQ559WM3Wbjk3vutKBmpLp3athiUcP0mUTEwDnakUmgiEtssg8Bil3D98MbRIlJZfUGMeAQJZJSXssD9XL3VsNOsbBc3xifKhh2XK9r-VkPxIfgFYitZoHbfYbamkgT9EhnYihPKrhgXde~f0ZZTB2B~rvwKu5JHwiD2vLMU0NRbs2mHkuVZ-Y6e3Yb2sjAHnpaAEB6SOhiKrRMphl-Vi~-fN1c-hny55cGEschJXa-NVVIhnbbQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   buttons:
