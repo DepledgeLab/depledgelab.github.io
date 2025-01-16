@@ -5,7 +5,7 @@ nav:
   tooltip: Bioinformatical tools hosted by the Depledge Lab
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Software
+# {% include icon.html icon="fa-solid fa-square-binary" %}Software
 
 {% capture content %}
 **Warning**<br>

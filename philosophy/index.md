@@ -2,7 +2,7 @@
 title: Philosophy
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Depledge Lab Philosophy
+# {% include icon.html icon="fa-solid fa-hands-holding-circle" %}Depledge Lab Philosophy
 
 {% capture content %}
 **Warning**<br>
