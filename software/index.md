@@ -11,4 +11,4 @@ Welcome to the **ROCINATE** (**R**eally **O**riginal **C**ollection of **I**nter
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" filter="tags == 'software'" %}
+{% include list.html component="card" data="projects" filter="group == 'software'" %}

@@ -5,7 +5,7 @@
   description: "**DRUMMER** is designed to identify RNA modifications at nucleotide-level resolution on distinct transcript isoforms through the comparative analysis of basecall errors in _Nanopore_ direct RNA sequencing (DRS) datasets."
   repo: DepledgeLab/DRUMMER
   tags:
-    - software
+    - Nanopore
 
 - title: NAGATA
   subtitle: "**Na**nopore **G**uided **A**nnotation of **T**ranscriptome **A**rchitectures"
@@ -14,4 +14,4 @@
   description: "**NAGATA** uses _Nanopore_ direct RNA sequencing reads aligned to a genome to produce a transcriptome annotation. **NAGATA** functions by parsing read alignments (sorted BAM files) to identify Transcription Units (TUs) by internally converting BAM file into BED12 followed by numerically sorting 'start' and 'end' positions and then grouping alignments with similar 'start' and 'end' co-ordinates. This is performed on a row-by-row basis with a new TU defined only if the alignment co-ordinates of a given row differ from the previous row by greater than user-defined threshold (20 nt for transcription start sites (TSS), 50 nt for cleavage and polyadenylation sites (CPAS))."
   repo: DepledgeLab/NAGATA
   tags:
-    - software
+    - Nanopore
