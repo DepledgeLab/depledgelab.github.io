@@ -5,7 +5,7 @@ nav:
   tooltip: Latest events & happenings
 ---
 
-# {% include icon.html icon="fa-solid fa-newspaper %}News
+# {% include icon.html icon="fa-solid fa-newspaper" %}News
 
 {% include search-box.html %}
 
