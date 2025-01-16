@@ -965,6 +965,7 @@
     link: https://github.com/DepledgeLab/NAGATA
   tags:
   - software
+  - Nanopore
   repo: DepledgeLab/NAGATA
   plugin: sources.py
   file: sources.yaml
@@ -992,6 +993,7 @@
     link: https://github.com/DepledgeLab/DRUMMER
   tags:
   - software
+  - Nanopore
   repo: DepledgeLab/DRUMMER
   plugin: sources.py
   file: sources.yaml
