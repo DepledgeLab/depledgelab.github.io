@@ -21,7 +21,8 @@ See our lab [compact and philosophy](/philosophy).
 {% include list.html data="members" component="portrait" filter="role == 'programmer' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'mascot' and group != 'alum'" %}
 
-{% include section.html background="images/background_dna_dark.png" %}
+
+{% include section.html background="images/background_dna.png" dark=true %}
 
 We are always looking for motivated and talented people with an interest in working at the interface of molecular and computational virology.<br>
 Will it be you?
