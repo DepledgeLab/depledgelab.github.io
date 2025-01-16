@@ -5,10 +5,10 @@ nav:
   tooltip: Bioinformatical tools hosted by the Depledge Lab
 ---
 
-# {% include icon.html icon="fa-solid fa-square-binary" %}Software
+# {% include icon.html icon="fa-solid fa-terminal" %}Software
 
-{% capture content %}
-**Warning**<br>
-This site is currently under construction.
-{% endcapture %}
-{% include alert.html type="warning" content=content %}
+Welcome to the **ROCINATE** (**R**eally **O**riginal **C**ollection of **I**nteresting **NAN**opore **T**ools for research **E**ndevours)!
+
+{% include section.html %}
+
+{% include list.html component="card" data="projects" filter="tags == 'software'" %}

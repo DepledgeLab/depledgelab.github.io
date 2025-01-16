@@ -53,7 +53,7 @@ Sometimes your trusty lab equipment does the trick. Sometimes bioinformatics lea
 
 
 {% capture text %}
-Science isn't done alone, you do it together! And together we strive to further our understanding of HHV and RNA biology, drawing strength from diversity.
+Science isn't done alone, you do it together! And together we strive to further our understanding of the world of viruses.
 Find out more about the team and about joining the Lab!
 {%
   include button.html
