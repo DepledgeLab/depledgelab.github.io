@@ -23,7 +23,8 @@ See our lab [compact and philosophy](/philosophy).
 
 {% include section.html background="images/background_dna.jpg" dark=true %}
 
-Interested in joining the Depledge Lab Team?
+We are always looking for motivated and talented people with an interest in working at the interface of molecular and computational virology.<br>
+Will it be you?
 {:.center}
 
 {%

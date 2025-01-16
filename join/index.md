@@ -50,4 +50,4 @@ Our lab is always happy to host foreign exchange students, interns, sabbatical v
 {% include section.html %}
 
 
-{% include figure.html image="images/team_photo_fin.png" width="100%" %}
+{% include figure.html image="images/team_photo_fin.png" width="80%" %}

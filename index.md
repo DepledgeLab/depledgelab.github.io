@@ -1,15 +1,9 @@
 ---
 ---
 
-# The official Depledge Lab Website
+# Welcome to the Depledge Lab!
 
 The Depledge Lab focuses on understanding how human herpesviruses persist following infection and how this is influenced by different aspects of RNA biology. Here, exciting web-lab, high performance computing bioinformatics and supportive colleagues meet to create new research. Have a look around this website to find out more!
-
-{% capture content %}
-**Warning**<br>
-This site is currently under construction.
-{% endcapture %}
-{% include alert.html type="warning" content=content %}
 
 
 {% include section.html %}
@@ -17,96 +11,62 @@ This site is currently under construction.
 ## Highlights
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our newest bioinformatical advances in the realm of sequence analyses. No RNA modification out there should feel safe!
 {%
   include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  link="software"
+  text="Find out more about our software"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/code_fin.png"
+  link="software"
+  title="Uncovering the hidden secrets"
   text=text
 %}
 
+
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Sometimes your trusty lab equipment does the trick. Sometimes bioinformatics leads you to your so desired awnser. - But why not both?
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
+  link="publications"
+  text="Check out our latest publications"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/book_fin.png"
+  link="publications"
+  title="Where wet-lab and dry-lab combine"
   flip=true
-  style="bare"
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 {% capture text %}
-
-We are always looking for motivated and talented people with an interest in working at the interface of molecular and computational virology. Check out open positions on our Join page.
-We welcome applicants from all background.
-
+Science isn't done alone, you do it together! And together we strive to further our understanding of HHV and RNA biology, drawing strength from diversity.
+Find out more about the team and about joining the Lab!
 {%
   include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  link="members"
+  text="Meet the Depledge Lab"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/team_photo_fin.png"
+  link="members"
+  title="No people, no lab!"
   text=text
 %}
