@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Depledge Lab Members
 
 The Depledge lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.
-See our lab [compact and philosophy](philosophy).
+See our lab [compact and philosophy](/philosophy).
 
 {% include section.html %}
 
@@ -24,6 +24,7 @@ See our lab [compact and philosophy](philosophy).
 {% include section.html background="images/background_dna.jpg" dark=true %}
 
 Interested in joining the Depledge Lab Team?
+{:.center}
 
 {%
   include button.html

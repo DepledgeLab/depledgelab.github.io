@@ -7,5 +7,5 @@ tags: lab life
 {%
   include figure.html
   image="images/day-1_fin.png"
-  width="100%"
+  width="35%"
 %}
