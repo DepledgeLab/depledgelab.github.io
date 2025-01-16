@@ -5,7 +5,7 @@ nav:
   tooltip: Projects, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 {% capture content %}
 **Warning**<br>

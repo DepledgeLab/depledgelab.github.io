@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Depledge Lab Members
 
 The Depledge lab welcomes people of any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status.
-See our lab [compact and philosophy](philosophy).
+See our lab [compact and philosophy](/philosophy).
 
 {% include section.html %}
 
@@ -21,9 +21,11 @@ See our lab [compact and philosophy](philosophy).
 {% include list.html data="members" component="portrait" filter="role == 'programmer' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'mascot' and group != 'alum'" %}
 
-{% include section.html background="images/background_dna.jpg" dark=true %}
+{% include section.html background="images/background_dna_dark.png" %}
 
-Interested in joining the Depledge Lab Team?
+We are always looking for motivated and talented people with an interest in working at the interface of molecular and computational virology.<br>
+Will it be you?
+{:.center}
 
 {%
   include button.html

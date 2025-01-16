@@ -1,47 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: DRUMMER
+  subtitle: Detection of Ribonucleic acid Modifications Manifested in Error Rates
+  image: images/drummer_fin.png
+  link: https://github.com/DepledgeLab/DRUMMER
+  description: "**DRUMMER** is designed to identify RNA modifications at nucleotide-level resolution on distinct transcript isoforms through the comparative analysis of basecall errors in _Nanopore_ direct RNA sequencing (DRS) datasets."
+  repo: DepledgeLab/DRUMMER
+  group: software
   tags:
-    - resource
+    - Nanopore
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: NAGATA
+  subtitle: Nanopore Guided Annotation of Transcriptome Architectures
+  image: images/nagata_fin.png
+  link: https://github.com/DepledgeLab/NAGATA
+  description: "**NAGATA** uses _Nanopore_ direct RNA sequencing reads aligned to a genome to produce a transcriptome annotation. **NAGATA** functions by parsing read alignments (sorted BAM files) to identify Transcription Units (TUs) by internally converting BAM into BED12 followed by numerically sorting 'start' and 'end' positions and then grouping alignments with similar 'start' and 'end' co-ordinates. This is performed on a row-by-row basis with a new TU defined only if the alignment co-ordinates of a given row differ from the previous row by greater than user-defined threshold (20 nt for transcription start sites (TSS), 50 nt for cleavage and polyadenylation sites (CPAS))."
+  repo: DepledgeLab/NAGATA
+  group: software
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Nanopore

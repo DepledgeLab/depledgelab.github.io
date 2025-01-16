@@ -30,9 +30,11 @@ We are proud to host students enrolled in the [MHH Biomedicine, Biomedical Data 
 ### PhD Students
 At the MHH, most PhD students are recruited via the [DEWIN/ZIB](https://www.mhh.de/hbrs/zib) graduate program which offers a 3-year PhD program in which candidates who pass the interview stages are able to select from a set of projects submitted by group leaders from departments around the MHH. Scholarship awards (including [DAAD](https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/)) are available for students who score highly at the interview stage. 
 
-<details markdown="1">
-<summary>"**The Depledge Lab currently participates in these MHH graduate programs**"</summary>
-- **[DEWIN](https://www.mhh.de/en/hbrs/zib)**: The Infection Biology / Dynamics of Host-Pathogen Interactions Graduate Program is a 3-year PhD program focused on Infection Biology.
+<details>
+<summary><b>The Depledge Lab currently participates in these MHH graduate programs</b></summary>
+<ul>
+  <li><a href="https://www.mhh.de/en/hbrs/zib"><b>DEWIN</b></a>: The Infection Biology / Dynamics of Host-Pathogen Interactions Graduate Program is a 3-year PhD program focused on Infection Biology.</li>
+</ul>  
 </details>
 
 ### Postdoctoral Fellows
@@ -48,4 +50,4 @@ Our lab is always happy to host foreign exchange students, interns, sabbatical v
 {% include section.html %}
 
 
-{% include figure.html image="images/team_photo_fin.png" width="100%" %}
+{% include figure.html image="images/team_photo_fin.png" width="80%" %}
