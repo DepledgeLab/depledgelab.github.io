@@ -12,6 +12,7 @@ The Depledge Lab focuses on understanding how human herpesviruses persist follow
 
 {% capture text %}
 Our newest bioinformatical advances in the realm of sequence analyses. No RNA modification out there should feel safe!
+{:.right}
 {%
   include button.html
   link="software"
