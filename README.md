@@ -1,5 +1,5 @@
 
-# e-fuhrmann's Website
+# DepledgeLab Website
 
 Visit **[depledgelab.github.io](https://depledgelab.github.io)** 🚀
 
