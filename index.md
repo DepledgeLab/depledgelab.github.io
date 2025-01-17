@@ -54,6 +54,7 @@ Want to generate high-resolution viral transcriptome annotations? Calling RNA mo
 
 {% capture text %}
 As we strive to further our understanding of the world of viruses, great science requires a great team! Find out more about the team and how you might be able to join us!
+{:.left}
 {%
   include button.html
   link="members"
