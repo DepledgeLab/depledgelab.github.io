@@ -33,14 +33,8 @@ Germany
 #### Daniel Depledge, Ph.D.
 [Institute of Virology](https://www.mhh.de/virologie), OE5230<br>
 Associate W2 professor of Systems Virology<br>
-E-Mail: depledge.daniel@mh-hannover.de<br>
+E-Mail: depledge.daniel (at) mh-hannover.de<br>
 Phone: +49 (0) 511 532 4310
-{%
-  include button.html
-  type="email"
-  text="depledge.daniel@mh-hannover.de"
-  link="depledge.daniel@mh-hannover.de"
-%}
 {%
   include button.html
   type="phone"
