@@ -5,7 +5,7 @@ role: postdoc
 affiliation:
 group: alum
 links:
-  email: Jonathan.Abebe@nyulangone.org
+  email: Jonathan.Abebe (at) nyulangone.org
   orcid: 0000-0002-5749-0827
   google-scholar: r9XO5W0AAAAJ
   github: JonAbebe

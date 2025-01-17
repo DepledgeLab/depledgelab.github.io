@@ -6,7 +6,7 @@ aliases:
   - H Begali
 links:
   home-page: https://www.resist-cluster.de/en/help-with-the-analysis-of-large-data-sets/
-  email: begali.hanan@mh-hannover.de
+  email: begali.hanan (at) mh-hannover.de
   orcid: 0000-0001-9264-787X
   google-scholar: GdEyYQIAAAAJ&hl
   github: HBegali

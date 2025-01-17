@@ -5,7 +5,7 @@ role: postdoc
 aliases:
   - C Vogt
 links:
-  email: vogt.carolin@mh-hannover.de
+  email: vogt.carolin (at) mh-hannover.de
   orcid: 0009-0004-7005-0086
   google-scholar: wdQVUGsAAAAJ
 ---

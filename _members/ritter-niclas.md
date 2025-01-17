@@ -6,7 +6,7 @@ role: postgradres
 aliases:
   - N Ritter
 links:
-  email: ritter.niclas@mh-hannover.de
+  email: ritter.niclas (at) mh-hannover.de
   orcid: 0009-0000-2906-804X
 ---
 

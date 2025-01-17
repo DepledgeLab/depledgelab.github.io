@@ -5,7 +5,7 @@ role: phd
 aliases:
   - E Loliashvili
 links:
-  email: loliashvili.elene@mh-hannover.de
+  email: loliashvili.elene (at) mh-hannover.de
   orcid: 0009-0006-4098-5010
 ---
 

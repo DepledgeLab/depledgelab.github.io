@@ -5,7 +5,7 @@ role: phd
 aliases:
   - P Cetraro
 links:
-  email: cetraro.pierina@mh-hannover.de
+  email: cetraro.pierina (at) mh-hannover.de
   orcid: 0009-0007-8072-0858
 ---
 

@@ -5,7 +5,7 @@ role: phd
 aliases:
   - E Fuhrmann
 links:
-  email: fuhrmann.erik@mh-hannover.de
+  email: fuhrmann.erik (at) mh-hannover.de
   orcid: 0009-0001-8512-9369
   google-scholar: X2rXQ1UAAAAJ
   github: e-fuhrmann

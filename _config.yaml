@@ -8,7 +8,6 @@ proofer: false
 
 # site social media and other links
 links:
-  email: depledge.daniel@mh-hannover.de
   github: DepledgeLab
 
 ### jekyll settings
