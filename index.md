@@ -3,15 +3,36 @@
 
 # Welcome to the Depledge Lab!
 
-The Depledge Lab focuses on understanding how human herpesviruses persist following infection and how this is influenced by different aspects of RNA biology. Here, exciting web-lab, high performance computing bioinformatics and supportive colleagues meet to create new research. Have a look around this website to find out more!
-
+Research in the Depledge Lab (aka Systems Biology of Virology lab) is focused on understanding how human herpesviruses persist following infection. The role of RNA biology is a particular focus and we apply diverse molecular and computational biology techniques to study this while also developing novel sequencing approaches and new softwares for computational analysis.
 
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
-Our newest bioinformatical advances in the realm of sequence analyses. No RNA modification out there should feel safe!
+Interested in the role of VLT in VZV latency? Diving into the world of nanopores and RNA modifications? 
+{%
+  include button.html
+  link="publications"
+  text="Check out our latest publications"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/book_fin.png"
+  link="publications"
+  title="Hot off the press"
+  flip=true
+  text=text
+%}
+
+
+{% capture text %}
+Want to generate high-resolution viral transcriptome annotations? Calling RNA modifications in viral transcriptomes? Check out our latest NAGATA and DRUMMER software releases 
+{:.right}
 {%
   include button.html
   link="software"
@@ -30,31 +51,9 @@ Our newest bioinformatical advances in the realm of sequence analyses. No RNA mo
 %}
 
 
-{% capture text %}
-Sometimes your trusty lab equipment does the trick. Sometimes bioinformatics leads you to your so desired awnser. - But why not both?
-{:.right}
-{%
-  include button.html
-  link="publications"
-  text="Check out our latest publications"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/book_fin.png"
-  link="publications"
-  title="Where wet-lab and dry-lab combine"
-  flip=true
-  text=text
-%}
-
 
 {% capture text %}
-Science isn't done alone, you do it together! And together we strive to further our understanding of the world of viruses.
-Find out more about the team and about joining the Lab!
+As we strive to further our understanding of the world of viruses, great science requires a great team! Find out more about the team and how you might be able to join us!
 {%
   include button.html
   link="members"
@@ -68,6 +67,6 @@ Find out more about the team and about joining the Lab!
   include feature.html
   image="images/team_photo_fin.png"
   link="members"
-  title="No people, no lab!"
+  title="Good people = Good Science!"
   text=text
 %}
