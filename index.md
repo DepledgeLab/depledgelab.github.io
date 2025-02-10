@@ -25,7 +25,6 @@ Interested in the role of VLT in VZV latency? Diving into the world of nanopores
   image="images/book_fin.png"
   link="publications"
   title="Hot off the press"
-  flip=true
   text=text
 %}
 
@@ -47,6 +46,7 @@ Want to generate high-resolution viral transcriptome annotations? Calling RNA mo
   image="images/code_fin.png"
   link="software"
   title="Uncovering the hidden secrets"
+  flip=true
   text=text
 %}
 

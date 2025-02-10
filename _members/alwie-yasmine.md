@@ -5,11 +5,10 @@ role: postgrad
 affiliation:
 group: alum
 links:
-  email:
-  orcid:
-  google-scholar:
-  github: 
-  linkedin:
+  email: alwie.yasmine (at) mh-hannover.de
+  orcid: 0000-0002-7001-5641
+  github: yalwie
+  linkedin: yasmine-alwie-022317133
 ---
 
 (Missing description.)
