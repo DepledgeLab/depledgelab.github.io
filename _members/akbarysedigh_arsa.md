@@ -1,5 +1,5 @@
 ---
-name: Arsa Akbarysedigh
+name: Arsa Akbarysedigh M.Sc.
 image: images/akbarysedigh_arsa.jpg
 role: phd
 aliases:
