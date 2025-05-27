@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the Depledge Lab!
+# Every RNA tells a story!
 
 Research in the Depledge Lab (aka Systems Biology of Virology lab) is focused on understanding how human herpesviruses persist following infection. The role of RNA biology is a particular focus and we apply diverse molecular and computational biology techniques to study this while also developing novel sequencing approaches and new softwares for computational analysis.
 
