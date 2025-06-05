@@ -247,48 +247,6 @@
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:31679866
-  title: 'Recurrent herpes zoster in the Shingles Prevention Study: Are second episodes
-    caused by the same varicella-zoster virus strain?'
-  authors:
-  - Ruth Harbecke
-  - Nancy J Jensen
-  - Daniel P Depledge
-  - Gary R Johnson
-  - Mark E Ashbaugh
-  - D Scott Schmid
-  - Judith Breuer
-  - Myron J Levin
-  - Michael N Oxman
-  publisher: Vaccine
-  date: '2019-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31679866
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:30819890
-  title: Human cytomegalovirus haplotype reconstruction reveals high diversity due
-    to superinfection and evidence of within-host recombination.
-  authors:
-  - Juliana Cudini
-  - Sunando Roy
-  - Charlotte J Houldcroft
-  - Josephine M Bryant
-  - Daniel P Depledge
-  - Helena Tutill
-  - Paul Veys
-  - Rachel Williams
-  - Austen J J Worth
-  - Asif U Tamuri
-  - Richard A Goldstein
-  - Judith Breuer
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2019-02-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30819890
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-019-08734-9
   title: Direct RNA sequencing on nanopore arrays redefines the transcriptional complexity
     of a viral pathogen
@@ -359,18 +317,6 @@
   publisher: BMC genomics
   date: '2018-03-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29554870
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:29958408
-  title: Molecular Aspects of Varicella-Zoster Virus Latency.
-  authors:
-  - Daniel P Depledge
-  - Tomohiko Sadaoka
-  - Werner J D Ouwendijk
-  publisher: Viruses
-  date: '2018-06-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29958408
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
@@ -546,20 +492,6 @@
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:27571904
-  title: Viral Genome Sequencing Proves Nosocomial Transmission of Fatal Varicella.
-  authors:
-  - Daniel P Depledge
-  - Julianne Brown
-  - Jasna Macanovic
-  - Gill Underhill
-  - Judith Breuer
-  publisher: The Journal of infectious diseases
-  date: '2016-08-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27571904
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:27440875
   title: Deep Sequencing of Distinct Preparations of the Live Attenuated Varicella-Zoster
     Virus Vaccine Reveals a Conserved Core of Attenuating Single-Nucleotide Polymorphisms.
@@ -572,23 +504,6 @@
   publisher: Journal of virology
   date: '2016-09-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27440875
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:27078099
-  title: In vitro system using human neurons demonstrates that varicella-zoster vaccine
-    virus is impaired for reactivation, but not latency.
-  authors:
-  - Tomohiko Sadaoka
-  - Daniel P Depledge
-  - Labchan Rajbhandari
-  - Arun Venkatesan
-  - Judith Breuer
-  - Jeffrey I Cohen
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2016-04-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27078099
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
@@ -621,139 +536,6 @@
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:27667983
-  title: Detection of Low Frequency Multi-Drug Resistance and Novel Putative Maribavir
-    Resistance in Immunocompromised Pediatric Patients with Cytomegalovirus.
-  authors:
-  - Charlotte J Houldcroft
-  - Josephine M Bryant
-  - Daniel P Depledge
-  - Ben K Margetts
-  - Jacob Simmonds
-  - Stephanos Nicolaou
-  - Helena J Tutill
-  - Rachel Williams
-  - Austen J J Worth
-  - Stephen D Marks
-  - Paul Veys
-  - Elizabeth Whittaker
-  - Judith Breuer
-  publisher: Frontiers in microbiology
-  date: '2016-09-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27667983
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25972414
-  title: Rapid Whole-Genome Sequencing of Mycobacterium tuberculosis Isolates Directly
-    from Clinical Samples.
-  authors:
-  - Amanda C Brown
-  - Josephine M Bryant
-  - Katja Einer-Jensen
-  - Jolyon Holdstock
-  - Darren T Houniet
-  - Jacqueline Z M Chan
-  - Daniel P Depledge
-  - Vladyslav Nikolayevskyy
-  - Agnieszka Broda
-  - Madeline J Stone
-  - Mette T Christiansen
-  - Rachel Williams
-  - Michael B McAndrew
-  - Helena Tutill
-  - Julianne Brown
-  - Mark Melzer
-  - Caryn Rosmarin
-  - Timothy D McHugh
-  - Robert J Shorten
-  - Francis Drobniewski
-  - Graham Speight
-  - Judith Breuer
-  publisher: Journal of clinical microbiology
-  date: '2015-05-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25972414
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25926648
-  title: Recombination of Globally Circulating Varicella-Zoster Virus.
-  authors:
-  - Peter Norberg
-  - Daniel P Depledge
-  - Samit Kundu
-  - Claire Atkinson
-  - Julianne Brown
-  - Tanzina Haque
-  - Yusuf Hussaini
-  - Eithne MacMahon
-  - Pamela Molyneaux
-  - Vassiliki Papaevangelou
-  - Nitu Sengupta
-  - Evelyn S C Koay
-  - Julian W Tang
-  - Gillian S Underhill
-  - Anna Grahn
-  - Marie Studahl
-  - Judith Breuer
-  - "Tomas Bergstr\xF6m"
-  publisher: Journal of virology
-  date: '2015-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25926648
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25568346
-  title: 'Rates of vaccine evolution show strong effects of latency: implications
-    for varicella zoster virus epidemiology.'
-  authors:
-  - Lucy A Weinert
-  - Daniel P Depledge
-  - Samit Kundu
-  - Anne A Gershon
-  - Richard A Nichols
-  - Francois Balloux
-  - John J Welch
-  - Judith Breuer
-  publisher: Molecular biology and evolution
-  date: '2015-01-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25568346
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25676750
-  title: Complete Genome Sequence of the Human Herpesvirus 6A Strain AJ from Africa
-    Resembles Strain GS from North America.
-  authors:
-  - J Tweedy
-  - M A Spyrou
-  - C D Donaldson
-  - D Depledge
-  - J Breuer
-  - U A Gompels
-  publisher: Genome announcements
-  date: '2015-02-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25676750
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25275123
-  title: Evolution of cocirculating varicella-zoster virus genotypes during a chickenpox
-    outbreak in Guinea-Bissau.
-  authors:
-  - Daniel P Depledge
-  - Eleanor R Gray
-  - Samit Kundu
-  - Samantha Cooray
-  - Anja Poulsen
-  - Peter Aaby
-  - Judith Breuer
-  publisher: Journal of virology
-  date: '2014-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25275123
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:24162921
   title: Deep sequencing of viral genomes provides insight into the evolution and
     pathogenesis of varicella zoster virus and its vaccine in humans.
@@ -773,30 +555,6 @@
   publisher: Molecular biology and evolution
   date: '2013-10-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24162921
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:25388670
-  title: Whole-genome enrichment and sequencing of Chlamydia trachomatis directly
-    from clinical samples.
-  authors:
-  - Mette T Christiansen
-  - Amanda C Brown
-  - Samit Kundu
-  - Helena J Tutill
-  - Rachel Williams
-  - Julianne R Brown
-  - Jolyon Holdstock
-  - Martin J Holland
-  - Simon Stevenson
-  - Jayshree Dave
-  - C Y William Tong
-  - Katja Einer-Jensen
-  - Daniel P Depledge
-  - Judith Breuer
-  publisher: BMC infectious diseases
-  date: '2014-11-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25388670
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
@@ -849,24 +607,6 @@
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:23382427
-  title: Viral population analysis and minority-variant detection using short read
-    next-generation sequencing.
-  authors:
-  - Simon J Watson
-  - Matthijs R A Welkers
-  - Daniel P Depledge
-  - Eve Coulter
-  - Judith M Breuer
-  - Menno D de Jong
-  - Paul Kellam
-  publisher: Philosophical transactions of the Royal Society of London. Series B,
-    Biological sciences
-  date: '2013-02-04'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23382427
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmc:PMC3267775
   title: 'Correction: Specific Capture and Whole-Genome Sequencing of Viruses from
     Clinical Samples'
@@ -912,25 +652,6 @@
   publisher: Genome research
   date: '2011-10-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22038252
-  orcid: 0000-0002-4292-0599
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:22125625
-  title: Specific capture and whole-genome sequencing of viruses from clinical samples.
-  authors:
-  - Daniel P Depledge
-  - Anne L Palser
-  - Simon J Watson
-  - Imogen Yi-Chun Lai
-  - Eleanor R Gray
-  - Paul Grant
-  - Ravinder K Kanda
-  - Emily Leproust
-  - Paul Kellam
-  - Judith Breuer
-  publisher: PloS one
-  date: '2011-11-18'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22125625
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
