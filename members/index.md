@@ -20,6 +20,7 @@ See our lab [compact and philosophy](/philosophy).
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'programmer' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'mascot' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'intern' and group != 'alum'" %}
 
 
 {% include section.html background="images/background_dna.png" dark=true %}
@@ -50,4 +51,5 @@ Past members of the Depledge Lab.
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'alum'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'programmer' and group == 'alum'" style="small" %}
 {% include list.html data="members" component="portrait" filter="role == 'mascot' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'intern' and group == 'alum'" style="small" %}
 

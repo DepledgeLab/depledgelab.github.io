@@ -16,7 +16,7 @@ phd:
 
 postgradres:
   icon: fa-solid fa-flask-vial
-  decription: Postgraduate Researcher
+  description: Postgraduate Researcher
 
 postgrad:
   icon: fa-solid fa-book-open
@@ -29,6 +29,10 @@ undergrad:
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+
+intern:
+  icon: fa-solid fa-hourglass-half
+  description: Intern
 
 mascot:
   icon: fa-solid fa-dog

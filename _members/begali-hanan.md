@@ -2,6 +2,8 @@
 name: Hanan Begali, Ph.D.
 image: images/begali_hanan_fin.png
 role: postdoc
+affiliation:
+group:
 aliases:
   - H Begali
 links:

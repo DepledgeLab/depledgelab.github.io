@@ -1,8 +1,9 @@
 ---
 name: Niclas Ritter, M.Sc.
 image: images/ritter_niclas_fin.png
-description: Postgraduate Researcher
 role: postgradres
+affiliation:
+group: alum
 aliases:
   - N Ritter
 links:

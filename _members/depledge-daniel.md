@@ -2,8 +2,11 @@
 name: Daniel Depledge, Ph.D.
 image: images/depledge_daniel_fin.png
 role: pi
+affiliation:
+group:
 aliases:
   - DP Depledge
+  - Daniel P. Depledge
 links:
   email: depledge.daniel (at) mh-hannover.de
   orcid: 0000-0002-4292-0599

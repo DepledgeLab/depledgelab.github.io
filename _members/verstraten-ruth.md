@@ -2,6 +2,8 @@
 name: Ruth Verstraten, Ph.D.
 image: images/verstraten_ruth_fin.png
 role: postdoc
+affiliation:
+group:
 aliases:
   - R Versrtaten
 links:

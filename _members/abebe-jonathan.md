@@ -1,9 +1,11 @@
 ---
 name: Jonathan Abebe, Ph.D.
 image: images/abebe_jonathan_fin.png
-role: postdoc
+role: phd
 affiliation:
 group: alum
+aliases:
+  - Jonathan S. Abebe
 links:
   email: Jonathan.Abebe (at) nyulangone.org
   orcid: 0000-0002-5749-0827

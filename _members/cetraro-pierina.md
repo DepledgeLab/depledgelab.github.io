@@ -2,6 +2,8 @@
 name: Pierina Cetraro, M.Sc.
 image: images/cetraro_pierina_fin.png
 role: phd
+affiliation:
+group:
 aliases:
   - P Cetraro
 links:

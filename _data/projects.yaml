@@ -17,3 +17,13 @@
   group: software
   tags:
     - Nanopore
+
+- title: DRAP3R
+  subtitle: Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing
+  image: images/draper_fin.png
+  link: https://github.com/DepledgeLab/DRAP3R
+  description: "**DRAP3R** (Direct Read and Analysis of RNA Polymerase III derived RNAs) is a custom nanopore direct RNA sequencing method and analysis framework that enables the specific and sensitive capture of nascent Pol III-derived RNAs (and a small subset of Pol II-derived ncRNAs)."
+  repo: DepledgeLab/DRAP3R
+  group:
+  tags:
+    - Nanopore

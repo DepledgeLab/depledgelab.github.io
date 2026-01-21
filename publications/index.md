@@ -11,6 +11,8 @@ nav:
 
 ## Highlighted
 
+{% include citation.html lookup="Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing" style="rich" %}
+
 {% include citation.html lookup="Nanopore guided annotation of transcriptome architectures" style="rich" %}
 
 {% include citation.html lookup="DRUMMER—rapid detection of RNA modifications through comparative nanopore sequencing" style="rich" %}

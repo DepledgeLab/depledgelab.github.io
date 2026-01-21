@@ -2,6 +2,8 @@
 name: Carolin Vogt, Ph.D.
 image: images/vogt_carolin_fin.png
 role: postdoc
+affiliation:
+group:
 aliases:
   - C Vogt
 links:

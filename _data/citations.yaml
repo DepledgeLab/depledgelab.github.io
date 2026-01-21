@@ -1,5 +1,78 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-025-68230-1
+  title: Defining expansions and perturbations to the RNA polymerase III transcriptome
+    and epitranscriptome by modified direct RNA nanopore sequencing
+  authors:
+  - Ruth Verstraten
+  - Pierina Cetraro
+  - Amy H. Fitzpatrick
+  - Yasmine Alwie
+  - Yannick N. Frommeyer
+  - Elene Loliashvili
+  - Saskia C. Stein
+  - "Susanne H\xE4ussler"
+  - Werner J. D. Ouwendijk
+  - Daniel P. Depledge
+  publisher: Nature Communications
+  date: '2026-01-06'
+  link: https://doi.org/hbj4hh
+  orcid: 0000-0002-4292-0599
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: '**DRAP3R** (Direct Read and Analysis of RNA Polymerase III derived
+    RNAs) is a custom nanopore direct RNA sequencing method and analysis framework
+    that enables the specific and sensitive capture of nascent Pol III-derived RNAs
+    (and a small subset of Pol II-derived ncRNAs).'
+  image: images/draper_fin.png
+  buttons:
+  - type: source
+    link: https://github.com/DepledgeLab/DRAP3R
+  tags:
+  - Nanopore
+- id: doi:10.1101/2025.11.02.686099
+  title: "Establishing benchmarks for quantitative mapping of m\n                \
+    \  <sup>6</sup>\n                  A by Nanopore Direct RNA Sequencing"
+  authors:
+  - Denise Ohnezeit
+  - Elene Loliashvili
+  - Gregory Putzel
+  - Ruth Verstraten
+  - Jianheng Liu
+  - Luke S. Nicholson
+  - Alejandro Pironti
+  - Samie R. Jaffrey
+  - Daniel P. Depledge
+  - Angus C. Wilson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-11-02'
+  link: https://doi.org/hbj4hk
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/pnasnexus/pgaf225
+  title: RNA-interactome capture identifies SRSF3 as a key protein for herpesviral
+    gene expression
+  authors:
+  - Carolin Vogt
+  - Marco van Ham
+  - Ruchira Bhowmik
+  - Amir Argoetti
+  - Daniel P Depledge
+  - "Lars Steinbr\xFCck"
+  - "Jasper G\xF6tting"
+  - Carolina Henkel
+  - Andrea Cuadra Granados
+  - Yael Mandel-Gutfreund
+  - "Lothar J\xE4nsch"
+  - Jens Bohne
+  publisher: PNAS Nexus
+  date: '2025-07-31'
+  link: https://doi.org/g9zj3n
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00125-025-06359-w
   title: Detection of enterovirus RNA in pancreas and lymphoid tissues of organ donors
     with type 1 diabetes
@@ -89,7 +162,7 @@
     co-ordinates of a given row differ from the previous row by greater than user-defined
     threshold (20 nt for transcription start sites (TSS), 50 nt for cleavage and polyadenylation
     sites (CPAS)).'
-  image: https://journals.asm.org/cms/10.1128/msystems.00505-24/asset/01e0db08-09ec-4b35-b4e8-04be0e604ba5/assets/images/large/msystems.00505-24.f002.jpg
+  image: images/nagata_fin.png
   buttons:
   - type: source
     link: https://github.com/DepledgeLab/NAGATA
@@ -215,8 +288,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/embr.202256327
-  title: "<scp>CCR4\u2010NOT</scp> differentially controls host versus virus poly(a)\u2010\
-    tail length and regulates <scp>HCMV</scp> infection"
+  title: "<scp>CCR4\u2010NOT</scp>\n                    differentially controls host\
+    \ versus virus poly(a)\u2010tail length and regulates\n                    <scp>HCMV</scp>\n\
+    \                    infection"
   authors:
   - Hannah M Burgess
   - Rebecca Grande
@@ -317,7 +391,7 @@
   description: '**DRUMMER** is designed to identify RNA modifications at nucleotide-level
     resolution on distinct transcript isoforms through the comparative analysis of
     basecall errors in _Nanopore_ direct RNA sequencing (DRS) datasets.'
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/38/11/10.1093_bioinformatics_btac274/2/m_btac274f1.jpeg?Expires=1739950633&Signature=bU1ER8tpVEyIXI~5CXkkt-WdnEMQnjAir7PZh8OJT8Nhup7sJ-d7mvVAs8mQa7rrYd4UlhxcA4LK00rKOeLCLuWmOIViYk4imwQ559WM3Wbjk3vutKBmpLp3athiUcP0mUTEwDnakUmgiEtssg8Bil3D98MbRIlJZfUGMeAQJZJSXssD9XL3VsNOsbBc3xifKhh2XK9r-VkPxIfgFYitZoHbfYbamkgT9EhnYihPKrhgXde~f0ZZTB2B~rvwKu5JHwiD2vLMU0NRbs2mHkuVZ-Y6e3Yb2sjAHnpaAEB6SOhiKrRMphl-Vi~-fN1c-hny55cGEschJXa-NVVIhnbbQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/drummer_fin.png
   buttons:
   - type: source
     link: https://github.com/DepledgeLab/DRUMMER
@@ -950,7 +1024,7 @@
   - Daniel Depledge
   - Judith Breuer
   - Gillian Elliott
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-09-12'
   link: https://doi.org/gk2smj
   orcid: 0000-0002-4292-0599
@@ -993,7 +1067,7 @@
   - Dimitris G. Placantonakis
   - Ian Mohr
   - Angus C Wilson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-07-20'
   link: https://doi.org/gkt35n
   orcid: 0000-0002-4292-0599
@@ -1046,7 +1120,7 @@
   - Randall J. Cohrs
   - Georges M. G. M. Verjans
   - Judith Breuer
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-08-10'
   link: https://doi.org/gkvqgg
   orcid: 0000-0002-4292-0599
