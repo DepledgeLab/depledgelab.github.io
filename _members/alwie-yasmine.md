@@ -1,6 +1,6 @@
 ---
 name: Yasmine Alwie, M.Sc.
-image: images/Alwie_Yasmine_fin.png
+image: images/alwie_yasmine_fin.png
 role: postgrad
 affiliation:
 group: alum
