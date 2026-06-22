@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.7554/eLife.110672
+  title: Calibrated analysis framework for nanopore direct RNA sequencing uncovers
+    cell-specific m6A stoichiometry at conserved sites
+  authors:
+  - Denise Ohnezeit
+  - Elene Loliashvili
+  - Gregory Putzel
+  - Ruth Verstraten
+  - Jianheng Liu
+  - Luke S Nicholson
+  - Alejandro Pironti
+  - Samie R Jaffrey
+  - Daniel P Depledge
+  - Angus C Wilson
+  publisher: eLife Sciences Publications, Ltd
+  date: '2026-05-05'
+  link: https://doi.org/hb3fdc
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.110672.1
+  title: Calibrated analysis framework for nanopore direct RNA sequencing uncovers
+    cell-specific m6A stoichiometry at conserved sites
+  authors:
+  - Denise Ohnezeit
+  - Elene Loliashvili
+  - Gregory Putzel
+  - Ruth Verstraten
+  - Jianheng Liu
+  - Luke S Nicholson
+  - Alejandro Pironti
+  - Samie R Jaffrey
+  - Daniel P Depledge
+  - Angus C Wilson
+  publisher: eLife Sciences Publications, Ltd
+  date: '2026-05-05'
+  link: https://doi.org/hb3fdd
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-68230-1
   title: Defining expansions and perturbations to the RNA polymerase III transcriptome
     and epitranscriptome by modified direct RNA nanopore sequencing
@@ -32,8 +72,8 @@
   tags:
   - Nanopore
 - id: doi:10.1101/2025.11.02.686099
-  title: "Establishing benchmarks for quantitative mapping of m\n                \
-    \  <sup>6</sup>\n                  A by Nanopore Direct RNA Sequencing"
+  title: "Calibrated analysis framework for nanopore direct RNA sequencing uncovers\
+    \ cell-specific m\u2076A stoichiometry at conserved sites"
   authors:
   - Denise Ohnezeit
   - Elene Loliashvili
@@ -45,7 +85,7 @@
   - Samie R. Jaffrey
   - Daniel P. Depledge
   - Angus C. Wilson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-11-02'
   link: https://doi.org/hbj4hk
   orcid: 0000-0002-4292-0599
@@ -128,7 +168,7 @@
   - "Susanne H\xE4ussler"
   - Werner J.D. Ouwendijk
   - Daniel P. Depledge
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-03-12'
   link: https://doi.org/g9n3qk
   orcid: 0000-0002-4292-0599
@@ -238,7 +278,7 @@
   - Sabrina Schreiner
   - Angus C. Wilson
   - Daniel P. Depledge
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-04-03'
   link: https://doi.org/g9n3qr
   orcid: 0000-0002-4292-0599
@@ -246,7 +286,7 @@
   file: orcid.yaml
 - id: doi:10.1073/pnas.2312874121
   title: "tRNA epitranscriptome determines pathogenicity of the opportunistic pathogen\n\
-    \            <i>Pseudomonas aeruginosa</i>"
+    \                    <i>Pseudomonas aeruginosa</i>"
   authors:
   - Jonas Krueger
   - Matthias Preusse
@@ -281,16 +321,15 @@
   - Rebecca Gibeault
   - Daniel P. Depledge
   - Luis M. Schang
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-12-22'
   link: https://doi.org/g9n3qv
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/embr.202256327
-  title: "<scp>CCR4\u2010NOT</scp>\n                    differentially controls host\
-    \ versus virus poly(a)\u2010tail length and regulates\n                    <scp>HCMV</scp>\n\
-    \                    infection"
+  title: "CCR4\u2010NOT differentially controls host versus virus poly(a)\u2010tail\
+    \ length and regulates HCMV infection"
   authors:
   - Hannah M Burgess
   - Rebecca Grande
@@ -299,7 +338,7 @@
   - Gerlof Sebastiaan Winkler
   - Daniel P Depledge
   - Ian Mohr
-  publisher: EMBO reports
+  publisher: The EMBO Reports
   date: '2023-10-17'
   link: https://doi.org/g9n3qw
   orcid: 0000-0002-4292-0599
@@ -319,7 +358,7 @@
   - Angus C. Wilson
   - Georges M.G.M. Verjans
   - Daniel P. Depledge
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-18'
   link: https://doi.org/g9n3qx
   orcid: 0000-0002-4292-0599
@@ -426,7 +465,7 @@
   - Angus C Wilson
   - Daniel P Depledge
   - Tony T Huang
-  publisher: EMBO reports
+  publisher: The EMBO Reports
   date: '2021-11-29'
   link: https://doi.org/g9n3q5
   orcid: 0000-0002-4292-0599
@@ -466,8 +505,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.2104805118
-  title: "Widespread remodeling of the m\n            <sup>6</sup>\n            A\
-    \ RNA-modification landscape by a viral regulator of RNA processing and export"
+  title: "Widespread remodeling of the m\n                    <sup>6</sup>\n     \
+    \               A RNA-modification landscape by a viral regulator of RNA processing\
+    \ and export"
   authors:
   - Kalanghad Puthankalam Srinivas
   - Daniel P. Depledge
@@ -540,7 +580,7 @@
   - Judith Breuer
   - Evgeny Zdobnov
   - Jacques Fellay
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-12-04'
   link: https://doi.org/g9n3rb
   orcid: 0000-0002-4292-0599
@@ -595,7 +635,7 @@
   - Arun Venkatesan
   - Georges M. G. M. Verjans
   - Tomohiko Sadaoka
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-09-11'
   link: https://doi.org/g8ztrw
   orcid: 0000-0002-4292-0599
@@ -642,7 +682,7 @@
   - Georges M.G.M Verjans
   - Werner J.D. Ouwendijk
   - Daniel P. Depledge
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-05-25'
   link: https://doi.org/g8ztrz
   orcid: 0000-0002-4292-0599
@@ -735,7 +775,7 @@
   - Daniel P. Depledge
   - Angus C. Wilson
   - Matthew D. Weitzman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-13'
   link: https://doi.org/gkvkjx
   orcid: 0000-0002-4292-0599
@@ -755,15 +795,15 @@
   - Tanzina Haque
   - Daniel P Depledge
   - Judith Breuer
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-06'
   link: https://doi.org/gk3cvg
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/865485
-  title: Direct RNA sequencing reveals m<sup>6</sup>A modifications on adenovirus
-    RNA are necessary for efficient splicing
+  title: "Direct RNA sequencing reveals m\n                  <sup>6</sup>\n      \
+    \            A modifications on adenovirus RNA are necessary for efficient splicing"
   authors:
   - Alexander M. Price
   - Katharina E. Hayer
@@ -776,7 +816,7 @@
   - Angus C. Wilson
   - Daniel P. Depledge
   - Matthew D. Weitzman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-05'
   link: https://doi.org/gktpkw
   orcid: 0000-0002-4292-0599
