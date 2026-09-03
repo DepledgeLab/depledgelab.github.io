@@ -1,7 +1,7 @@
 ---
 title: Visiting Scientist
 author: depledge-daniel
-tags: lab, team poly(A)
+tags: lab, team, polyA
 ---
 
 ### Visiting Scientist: Natalia Guminska, Ph.D.
