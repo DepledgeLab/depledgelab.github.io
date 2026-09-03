@@ -4,7 +4,7 @@ author: depledge-daniel
 tags: lab, team
 ---
 
-### Visiting Scientist: Natalia Guminska, Ph.D.
+### Visiting Scientist Alert
 
 {%
   include figure.html
