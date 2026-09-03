@@ -1,3 +1,10 @@
+---
+title: Contact
+nav:
+  order: 6
+  tooltip: Email, address, and location
+---
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 Find us at [Hannover Medical School](https://www.mhh.de/) (MHH) at the [Institute of Virology](https://www.mhh.de/virologie), [AG Depledge](https://www.mhh.de/virologie/forschung/depledge-lab).
 
