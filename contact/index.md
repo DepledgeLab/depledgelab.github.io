@@ -1,14 +1,5 @@
----
-title: Contact
-nav:
-  order: 6
-  tooltip: Email, address, and location
----
-
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
 Find us at [Hannover Medical School](https://www.mhh.de/) (MHH) at the [Institute of Virology](https://www.mhh.de/virologie), [AG Depledge](https://www.mhh.de/virologie/forschung/depledge-lab).
-
 
 ## How to contact us
 
@@ -24,6 +15,8 @@ Phone: +49 (0) 511 532 4310
   link="+49-511-532-4310"
 %}
 {% endcapture %}
+
+{% capture col2 %}
 #### Lab Space
 Institute of Virology<br>
 J6/06/1070<br>
@@ -33,24 +26,11 @@ Carl-Neuberg-Str. 1<br>
 Germany
 {% endcapture %}
 
-{% capture col2 %}
-
-
 {% include cols.html col1=col1 col2=col2 %}
 
-{%
-  include figure.html
+{% include figure.html
   image="images/building_j06_fin.png"
   caption="Building J06"
 %}
 
 {% include section.html %}
-
-
-
-
-
-
-
-
-
