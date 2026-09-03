@@ -1,5 +1,5 @@
 ---
-name: Elene Loliashvili, M.Sc.
+name: Elene Loliashvili, M.Sc. Ph.D.
 image: images/loliashvili_elene_fin.png
 role: phd
 affiliation:
