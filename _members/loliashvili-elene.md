@@ -3,7 +3,7 @@ name: Elene Loliashvili, M.Sc.
 image: images/loliashvili_elene_fin.png
 role: phd
 affiliation:
-group:
+group: alum
 aliases:
   - E Loliashvili
 links:
