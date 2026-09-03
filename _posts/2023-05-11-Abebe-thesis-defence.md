@@ -1,7 +1,7 @@
 ---
 title: An auspicious day - Jonathan Abebe thesis defence!
 author: depledge-daniel
-tags: 'lab life', team
+tags: lab, team
 ---
 
 ### Jonathan Abebe, Ph.D.
