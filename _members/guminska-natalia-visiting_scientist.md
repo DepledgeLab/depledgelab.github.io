@@ -7,6 +7,7 @@ group:
 aliases:
   - N Guminska
 links:
+  email: not listed
   orcid: 0000-0002-4599-2897
   google-scholar: Xx8ApXAAAAAJ
 ---
