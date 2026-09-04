@@ -8,7 +8,7 @@ tags: lab, team
 
 {%
   include figure.html
-  image="images/abebe_phd_fin.png"
+  image="images/elene_phd.png"
   width="100%"
 %}
 
@@ -18,8 +18,3 @@ Congratulations to Elene and a big thank you to the external examiners Redmond S
 
 Best of all, Elene won a prize for having the best thesis!
 
-{%
-  include figure.html
-  image="images/elene_phd.png"
-  width="100%"
-%}
