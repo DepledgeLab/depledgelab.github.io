@@ -73,18 +73,20 @@
   - Nanopore
 - id: doi:10.1101/2025.11.02.686099
   title: "Calibrated analysis framework for nanopore direct RNA sequencing uncovers\
-    \ cell-specific m\u2076A stoichiometry at conserved sites"
+    \ cell-specific m\n                  <sup>6</sup>\n                  A proportions\
+    \ at conserved sites"
   authors:
   - Denise Ohnezeit
   - Elene Loliashvili
   - Gregory Putzel
   - Ruth Verstraten
+  - Adam T Silhavy
   - Jianheng Liu
-  - Luke S. Nicholson
+  - Luke S Nicholson
   - Alejandro Pironti
-  - Samie R. Jaffrey
-  - Daniel P. Depledge
-  - Angus C. Wilson
+  - Samie R Jaffrey
+  - Daniel P Depledge
+  - Angus C Wilson
   publisher: openRxiv
   date: '2025-11-02'
   link: https://doi.org/hbj4hk
@@ -522,8 +524,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gad.348320.121
-  title: Targeting the m<sup>6</sup>A RNA modification pathway blocks SARS-CoV-2 and
-    HCoV-OC43 replication
+  title: "Targeting the m\n                    <sup>6</sup>\n                    A\
+    \ RNA modification pathway blocks SARS-CoV-2 and HCoV-OC43 replication"
   authors:
   - Hannah M. Burgess
   - Daniel P. Depledge
