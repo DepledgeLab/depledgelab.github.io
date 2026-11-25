@@ -20,6 +20,69 @@
   orcid: 0000-0002-4292-0599
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.7554/eLife.110672.4
+  title: "Calibrated analysis framework for nanopore direct RNA sequencing uncovers\
+    \ cell-specific m\u2076A proportions at conserved sites"
+  authors:
+  - Denise Ohnezeit
+  - Elene Loliashvili
+  - Gregory Putzel
+  - Ruth Verstraten
+  - Adam T Silhavy
+  - Jianheng Fox Liu
+  - Luke Nicholson
+  - Alejandro Pironti
+  - Samie R Jaffrey
+  - Daniel Depledge
+  - Angus C Wilson
+  publisher: eLife
+  date: '2026-11-20'
+  link: https://doi.org/hctv5b
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.110672.3
+  title: "Calibrated analysis framework for nanopore direct RNA sequencing uncovers\
+    \ cell-specific m\u2076A proportions at conserved sites"
+  authors:
+  - Denise Ohnezeit
+  - Elene Loliashvili
+  - Gregory Putzel
+  - Ruth Verstraten
+  - Adam T Silhavy
+  - Jianheng Liu
+  - Luke S Nicholson
+  - Alejandro Pironti
+  - Samie R Jaffrey
+  - Daniel P Depledge
+  - Angus C Wilson
+  publisher: eLife Sciences Publications, Ltd
+  date: '2026-10-29'
+  link: https://doi.org/hctv5c
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.110672.2
+  title: "Calibrated analysis framework for nanopore direct RNA sequencing uncovers\
+    \ cell-specific m\u2076A proportions at conserved sites"
+  authors:
+  - Denise Ohnezeit
+  - Elene Loliashvili
+  - Gregory Putzel
+  - Ruth Verstraten
+  - Adam T Silhavy
+  - Jianheng Liu
+  - Luke S Nicholson
+  - Alejandro Pironti
+  - Samie R Jaffrey
+  - Daniel P Depledge
+  - Angus C Wilson
+  publisher: eLife Sciences Publications, Ltd
+  date: '2026-10-22'
+  link: https://doi.org/hctv5d
+  orcid: 0000-0002-4292-0599
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.110672.1
   title: Calibrated analysis framework for nanopore direct RNA sequencing uncovers
     cell-specific m6A stoichiometry at conserved sites
