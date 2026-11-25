@@ -1,6 +1,6 @@
 ---
 name: Natalia Guminska, Ph.D.
-image: images/begali_hanan_fin.png
+image: images/guminska.jpg
 role: visitingscientist
 affiliation:
 group:
