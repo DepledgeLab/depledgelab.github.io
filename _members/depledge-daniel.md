@@ -1,6 +1,6 @@
 ---
 name: Daniel Depledge, Ph.D.
-image: images/depledge_daniel_fin.png
+image: images/depledge_daniel_fin.jpg
 role: pi
 affiliation:
 group:
