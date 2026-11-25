@@ -1,6 +1,6 @@
 ---
 name: Manel Perez-Pons
-image: images/begali_hanan_fin.png
+image: images/pons_fin.jpg
 role: visitingscientist
 affiliation:
 group:
