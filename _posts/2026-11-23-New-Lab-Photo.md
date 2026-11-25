@@ -1,16 +1,17 @@
 ---
-title: Lab Photo - Nov 2026 Edition
+title: Lab Photo
 author: depledge-daniel
 tags: lab, team
 ---
 
-### Visiting Scientist Alert
+### November 2026 Edition
 
 {%
   include figure.html
-  image="images/team_photo_nov2026_fin.png"
+  image="images/labphoto-nov2026.jpg"
   width="100%"
 %}
 
 
+(from left to right) Arsa, Manel, Pierina, Marius, Ruth, Natalia, Erik, Dan, Carolin
 
