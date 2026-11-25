@@ -1,6 +1,6 @@
 ---
 name: Natalia Guminska, Ph.D.
-image: images/guminska.jpg
+image: images/guminska_fin.jpg
 role: visitingscientist
 affiliation:
 group:
